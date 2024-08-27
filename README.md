@@ -3,7 +3,7 @@
 
 # Genomics and Clinical Microbiology 2025
 
-## 14–19 January 2024, Wellcome Genome Campus, Hinxton
+## 2–7 February 2025, Wellcome Genome Campus, Hinxton
 
 [Wellcome Connecting Science Course Run Website](Coming Soon) <br /> 
 [Course Time Table](Coming Soon) <br /> 
