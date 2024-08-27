@@ -1,11 +1,13 @@
+
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Genomics and Clinical Microbiology 2024
+# Genomics and Clinical Microbiology 2025
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+## 14–19 January 2024, Wellcome Genome Campus, Hinxton
 
-Training in molecular and genomic techniques for microbiological diagnostics and infection epidemiology
+[Wellcome Connecting Science Course Run Website](Coming Soon) <br /> 
+[Course Time Table](Coming Soon) <br /> 
+[Course Informatics Guide](Coming Soon)
 
 ## Course overview
 
@@ -67,13 +69,24 @@ Topics included in practical classes, demonstrations, and/or lectures:
 - Case studies demonstrating the relative merits of different approaches;
 - Presenting molecular data in the context of clinical scenarios.
 
+## Training Team
 
-**Course Runs**      
+- [Martin Maiden](https://www.zoo.ox.ac.uk/people/professor-martin-maiden), University of Oxford, UK
+- [Stephen Gillespie](https://risweb.st-andrews.ac.uk/portal/en/persons/stephen-henry-gillespie%28ce4435fa-8cee-4e25-92fe-30f18dfec159%29.html), University of St Andrews, UK
+- [Katarina Oravcova](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/katarinaoravcova/), University of Glasgow, UK
+- [Charlene Rodrigues](https://www.zoo.ox.ac.uk/people/charlene-rodrigues), University of Oxford, UK
+- [Keith Jolley](https://www.biology.ox.ac.uk/people/dr-keith-jolley), University of Oxford, UK
+- [Natasha Walbaum](https://www.st-andrews.ac.uk/medicine/people/), University of St Andrews, UK
+- [Marie Chattaway](.), UK Health Security Agency, UK
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| 14–19 January 2024  | [Genomics and Clinical Microbiology 2024](https://github.com/WCSCourses/GCM24) | Wellcome Genome Campus, Hinxton|Citation DOI |
-| 2–7 February 2025 | [Genomics and Clinical Microbiology 2025](https://github.com/WCSCourses/) | Wellcome Genome Campus, Hinxton|Citation DOI |
+## Wellcome Connecting Science Team
+- [Alice Matimba](https://uk.linkedin.com/in/alice-matimba-8805177), Head of Training and Global Capacity
+- [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
+- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
+- [Aaron Dean](https://uk.linkedin.com/in/aaron-dean-5b5a21163), Laboratory Technical Officer
+- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
+- [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 
 ******
 
@@ -87,10 +100,11 @@ Take a look what courses are coming up at [Wellcome Connecting Science Courses &
 
 ---
 
-For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).
+For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
 
-<br /> 
 
 Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) 
+---
+
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
